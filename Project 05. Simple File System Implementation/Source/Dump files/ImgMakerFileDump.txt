@@ -1,0 +1,1826 @@
+---------------------SuperBlock Contents---------------------
+  Partition Type   - 4369
+  Block Size       - 1024 bytes
+  Inode Size       - 32 bytes
+  First Inode      - 2
+  num Inodes       - 216
+  num Inode Blocks - 7
+  num Free Inodes  - 224
+  num Blocks       - 4088
+  num Free Blocks  - 4082
+  First Data Block - 8
+  Volume Name      - TAKPAK_Partition
+-------------------------------------------------------------
+---------------------Inode[  0] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 4186112 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[  1] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[  2] Contents---------------------
+  Mode           - 132983
+  Locked         - 0
+  Date           - 0
+  File Size      - 224 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[  3] Contents---------------------
+  Mode           - 67447
+  Locked         - 0
+  Date           - 0
+  File Size      - 23 bytes
+  Indirect Block - -1
+  Blocks - 1 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[  4] Contents---------------------
+  Mode           - 67447
+  Locked         - 0
+  Date           - 0
+  File Size      - 24 bytes
+  Indirect Block - -1
+  Blocks - 2 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[  5] Contents---------------------
+  Mode           - 67447
+  Locked         - 0
+  Date           - 0
+  File Size      - 23 bytes
+  Indirect Block - -1
+  Blocks - 3 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[  6] Contents---------------------
+  Mode           - 67447
+  Locked         - 0
+  Date           - 0
+  File Size      - 24 bytes
+  Indirect Block - -1
+  Blocks - 4 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[  7] Contents---------------------
+  Mode           - 67447
+  Locked         - 0
+  Date           - 0
+  File Size      - 23 bytes
+  Indirect Block - -1
+  Blocks - 5 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[  8] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[  9] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 10] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 11] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 12] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 13] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 14] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 15] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 16] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 17] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 18] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 19] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 20] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 21] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 22] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 23] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 24] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 25] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 26] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 27] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 28] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 29] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 30] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 31] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 32] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 33] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 34] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 35] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 36] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 37] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 38] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 39] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 40] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 41] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 42] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 43] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 44] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 45] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 46] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 47] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 48] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 49] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 50] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 51] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 52] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 53] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 54] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 55] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 56] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 57] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 58] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 59] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 60] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 61] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 62] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 63] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 64] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 65] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 66] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 67] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 68] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 69] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 70] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 71] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 72] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 73] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 74] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 75] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 76] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 77] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 78] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 79] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 80] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 81] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 82] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 83] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 84] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 85] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 86] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 87] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 88] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 89] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 90] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 91] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 92] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 93] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 94] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 95] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 96] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 97] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 98] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[ 99] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[100] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[101] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[102] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[103] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[104] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[105] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[106] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[107] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[108] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[109] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[110] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[111] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[112] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[113] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[114] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[115] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[116] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[117] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[118] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[119] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[120] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[121] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[122] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[123] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[124] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[125] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[126] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[127] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[128] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[129] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[130] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[131] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[132] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[133] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[134] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[135] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[136] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[137] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[138] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[139] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[140] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[141] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[142] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[143] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[144] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[145] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[146] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[147] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[148] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[149] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[150] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[151] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[152] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[153] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[154] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[155] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[156] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[157] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[158] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[159] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[160] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[161] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[162] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[163] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[164] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[165] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[166] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[167] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[168] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[169] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[170] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[171] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[172] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[173] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[174] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[175] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[176] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[177] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[178] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[179] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[180] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[181] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[182] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[183] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[184] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[185] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[186] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[187] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[188] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[189] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[190] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[191] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[192] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[193] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[194] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[195] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[196] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[197] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[198] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[199] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[200] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[201] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[202] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[203] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[204] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[205] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[206] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[207] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[208] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[209] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[210] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[211] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[212] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[213] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[214] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[215] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[216] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[217] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[218] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[219] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[220] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[221] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[222] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+---------------------Inode[223] Contents---------------------
+  Mode           - 0
+  Locked         - 0
+  Date           - 0
+  File Size      - 0 bytes
+  Indirect Block - 0
+  Blocks - 0 0 0 0 0 0 
+-------------------------------------------------------------
+-------------------------------------------------Root Directory------------------------------------------------
+              .              ..       firstFile      secondFile       thirdFile      fourthFile       fifthFile 
+
+---------------------------------------------------------------------------------------------------------------
+----------------------------------------------------File Info---------------------------------------------------
+File Name :               .
+File Contents : 
+File Name :              ..
+File Contents : 
+File Name :       firstFile
+File Contents : this is the first file.
+File Name :      secondFile
+File Contents : this is the second file.
+File Name :       thirdFile
+File Contents : this is the third File.
+File Name :      fourthFile
+File Contents : this is the fourth file.
+File Name :       fifthFile
+File Contents : this is the fifth File.
+
+--------------------------------------------------------------------------------------------------------------
